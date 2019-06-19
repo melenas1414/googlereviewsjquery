@@ -45,7 +45,7 @@ $('.reviews').getReviews(apiKey,place_id);
 Se usa append para incluir insertar las reviews.
 
 
-##Versiones
+## Versiones
 
 ### 1.0
 
