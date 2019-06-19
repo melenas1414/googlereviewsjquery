@@ -34,3 +34,8 @@ $('.reviews').getReviews(apiKey,place_id);
 #### NOTAS
 
 Se usa append para incluir insertar las reviews.
+
+
+##Versiones
+### 1.0
+Se usa PHP para hacer la conexión con la api de Google Places
