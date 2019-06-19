@@ -1,8 +1,17 @@
 # googlereviewsjquery
+
 Implementación con Jquery de Google Reviews con Jquery y PHP sobre un template con Bootstrap 4
 Se requiere acceso a la api de Google Place
 
-*Se requiere instalar:*
+## Dependencias:
+
+### Instalación completa
+
+```sh
+npm install
+```
+
+### Instalación por separado
 
 Bootstrap
 
@@ -37,5 +46,11 @@ Se usa append para incluir insertar las reviews.
 
 
 ##Versiones
+
 ### 1.0
+
 Se usa PHP para hacer la conexión con la api de Google Places
+
+#### 1.0.1
+
+Se incorpora la instalación automática de dependecias con npm install 
